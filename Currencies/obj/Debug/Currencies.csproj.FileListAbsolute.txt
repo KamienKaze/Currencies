@@ -1,0 +1,14 @@
+C:\Users\hygre\OneDrive\Desktop\C#\Currencies\bin\Debug\Currencies.exe.config
+C:\Users\hygre\OneDrive\Desktop\C#\Currencies\bin\Debug\Currencies.exe
+C:\Users\hygre\OneDrive\Desktop\C#\Currencies\bin\Debug\Currencies.pdb
+C:\Users\hygre\OneDrive\Desktop\C#\Currencies\obj\Debug\Currencies.csproj.AssemblyReference.cache
+C:\Users\hygre\OneDrive\Desktop\C#\Currencies\obj\Debug\Currencies.csproj.SuggestedBindingRedirects.cache
+C:\Users\hygre\OneDrive\Desktop\C#\Currencies\obj\Debug\Currencies.Form1.resources
+C:\Users\hygre\OneDrive\Desktop\C#\Currencies\obj\Debug\Currencies.Properties.Resources.resources
+C:\Users\hygre\OneDrive\Desktop\C#\Currencies\obj\Debug\Currencies.csproj.GenerateResource.cache
+C:\Users\hygre\OneDrive\Desktop\C#\Currencies\obj\Debug\Currencies.csproj.CoreCompileInputs.cache
+C:\Users\hygre\OneDrive\Desktop\C#\Currencies\obj\Debug\Currencies.exe
+C:\Users\hygre\OneDrive\Desktop\C#\Currencies\obj\Debug\Currencies.pdb
+C:\Users\hygre\OneDrive\Desktop\C#\Currencies\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hygre\OneDrive\Desktop\C#\Currencies\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hygre\OneDrive\Desktop\C#\Currencies\obj\Debug\Currencies.csproj.CopyComplete
